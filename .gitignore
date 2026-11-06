@@ -1,0 +1,28 @@
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+
+# Entorno
+.env
+.env.*
+!.env.example
+
+# Dependencias
+node_modules/
+vendor/
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+
+# Temporales
+*.tmp
+*.bak
