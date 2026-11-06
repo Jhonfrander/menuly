@@ -8,10 +8,10 @@ Prototipo funcional de **Menuly**: menú digital, carrito y pedido enviado a Wha
 
 Opción 1: abre `index.html` en el navegador.
 
-Opción 2, con servidor local:
+Opción 2, con servidor local (desde la raíz `Trabajo`):
 
 ```bash
-cd demo
+cd menuly/demo
 npx serve .
 ```
 
