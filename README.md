@@ -4,6 +4,8 @@ Prototipo funcional de **Menuly**: menú digital, carrito y pedido enviado a Wha
 
 > **Estado:** demo de portafolio, no producto de producción. La marca, la dirección y los datos de contacto son ficticios.
 
+**Demo en vivo:** https://jhonfrander.github.io/menuly/
+
 ## Cómo verlo
 
 Opción 1: abre `index.html` en el navegador.
@@ -138,6 +140,11 @@ Eso es exactamente lo que se construye en las semanas 2 y 3 del plan.
 3. Enseña la vista previa del mensaje (o el WhatsApp real en una copia privada).
 4. Pregunta: "¿Así reciben los pedidos hoy?"
 5. Cierra con: "Te lo adapto con tu menú en 5 días."
+
+## Licencia
+
+Código: todos los derechos reservados. Ver `LICENSE`.
+Fotos: [Unsplash License](https://unsplash.com/license). Tipografías: SIL Open Font License. Ver `CREDITS.md`.
 
 ## Créditos
 
